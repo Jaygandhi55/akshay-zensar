@@ -1,2 +1,7 @@
 This is a text file.
 Instructions are written in this file about git and GitHub
+
+
+Wikipedia is a multilingual, web-based, free encyclopedia based on a model of openly editable content, a wiki.
+ It is the largest and most popular general 
+reference work on the World Wide Web, and is one of the most popular websites by Alexa rank.
